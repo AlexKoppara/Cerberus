@@ -11,3 +11,5 @@ Apollo Gateway
 install node modules with `npm i`
 
 start server with `node index.js`
+
+server will be running at `http://localhost:8000`
