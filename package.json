@@ -1,0 +1,24 @@
+{
+  "name": "cerberus",
+  "version": "1.0.0",
+  "description": "apollo gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKoppara/Cerberus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexKoppara/Cerberus/issues"
+  },
+  "homepage": "https://github.com/AlexKoppara/Cerberus#readme",
+  "dependencies": {
+    "@apollo/gateway": "^0.16.0",
+    "apollo-server": "^2.13.1",
+    "graphql": "^15.0.0"
+  }
+}
