@@ -5,7 +5,7 @@ Apollo Gateway
 
 | service | port | github |
 |---------|------|--------|
-| demeter | http://localhost:8080/query | https://github.com/AlexKoppara/Demeter |
+| demeter | http://localhost:8001/query | https://github.com/AlexKoppara/Demeter |
 
 ## Set Up
 install node modules with `npm i`
