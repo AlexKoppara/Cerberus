@@ -3,7 +3,8 @@ const { ApolloGateway } = require('@apollo/gateway')
 
 const gateway = new ApolloGateway({
   serviceList: [
-    { name: 'demeter', url: 'http://localhost:8001/query' }
+    { name: 'demeter', url: 'http://localhost:8001/query' },
+    { name: 'hermes', url: 'http://localhost:8002/query' }
   ]
 })
 
